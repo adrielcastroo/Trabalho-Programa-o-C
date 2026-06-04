@@ -16,7 +16,7 @@ Clique nos links abaixo para navegar diretamente até o código-fonte comentado 
 
 ### Módulo 2: Expressões, Operadores e Tabela Verdade
 
-* [**Questão 03 - Operações Matemáticas**](Questao%2003%20-%20Operacoes%20de%20matematicas/questao_03.c)**:** Entrada de dados para cálculo das quatro operações matemáticas básicas (soma, subtração, multiplicação e divisão).
+* [**Questão 03 - Operações Matemáticas**](Questao%2003%20-%20Operacoes%20matematicas/questao_03.c)**:** Entrada de dados para cálculo das quatro operações matemáticas básicas (soma, subtração, multiplicação e divisão).
 * [**Questão 04 - Operadores Relacionais**](Questao%2004%20-%20Operadores%20Relacionais/questao_04.c)**:** Leitura de dois inteiros para testar e informar igualdade ou qual dos elementos é maior utilizando lógica relacional.
 * [**Questão 05 - Tabela Verdade**](Questao%2005%20-%20Tabela%20Verdade/questao_05.c)**:** Validação lógica condicional estruturada com operadores booleanos (`\&\&`, `||`, `!`) para avaliar a aprovação de um discente por média e frequência.
 
