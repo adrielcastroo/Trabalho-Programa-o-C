@@ -22,7 +22,7 @@ Clique nos links abaixo para navegar diretamente até o código-fonte comentado 
 
 ### Módulo 3: Comandos de Entrada e Saída
 
-* [**Questão 06 - Cadastro de Usuário**](Questao%2007%20-%20Cadastro%20de%20Usu%C3%BArio/questao_06.c)**:** Manipulação de vetores de strings para captura e amostragem de dados cadastrais (nome, idade e cidade).
+* [**Questão 06 - Cadastro de Usuário**](Questao%2006%20-%20Cadastro%20de%20Usu%C3%A1rio/questao_06.c)**:** Manipulação de vetores de strings para captura e amostragem de dados cadastrais (nome, idade e cidade).
 * [**Questão 07 - Antecessor e Sucessor**](Questao%2007%20-%20Antecessor%20e%20Sucessor/questao_07.c)**:** Captura de um número inteiro e cálculo algébrico simples de seus respectivos vizinhos aritméticos.
 * [**Questão 08 - Conversor de Temperatura**](Questao%2008%20-%20Conversor%20de%20Temperatura/questao_08.c)**:** Algoritmo de conversão térmica de escalas Celsius para Fahrenheit baseado em fórmula matemática.
 
