@@ -36,9 +36,9 @@ Clique nos links abaixo para navegar diretamente até o código-fonte comentado 
 ### Módulo 5: Estruturas de Repetição
 
 * [**Questão 13 - Contagem de 1 a 10**](Questao%2013%20-%20Contagem%20de%201%20a%2010/questao_13.c)**:** Laço de repetição determinado com `for` para exibição cronológica de valores numéricos de 1 a 10.
-* [**Questão 14 - Tabuada**](Questao%2014%20-%20Tabuada%20/questao_14.c)**:** Geração dinâmica e automatizada da tabuada de multiplicação para qualquer número inteiro fornecido via terminal.
+* [**Questão 14 - Tabuada**](Questao%2014%20-%20Tabuada/questao_14.c)**:** Geração dinâmica e automatizada da tabuada de multiplicação para qualquer número inteiro fornecido via terminal.
 * [**Questão 15 - Soma dos Números**](Questao%2015%20-%20Soma%20dos%20Numeros/questao_15.c)**:** Implementação de laço contador associado a uma variável de acumulação (soma incremental) para 5 entradas distintas.
-* [**Questão 16 - Fatorial**](Questao%2016%20-%20Fatorial%20/questao_16.c)**:** Cálculo iterativo do produtório matemático acumulado para definição do fatorial de um número inteiro positivo.
+* [**Questão 16 - Fatorial**](Questao%2016%20-%20Fatorial/questao_16.c)**:** Cálculo iterativo do produtório matemático acumulado para definição do fatorial de um número inteiro positivo.
 
 ### Módulo 6: Vetores e Matrizes
 
