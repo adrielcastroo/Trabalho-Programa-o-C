@@ -4,7 +4,6 @@
 * **Bibliotecas Principais:** `<stdio.h>` para entrada/saída e `<locale.h>` para o suporte de acentuação gráfica regional.
 * **Compilador:** GCC (MinGW / Dev-C++)
 
-\---
 
 ## Estrutura de Questões e Arquivos
 
