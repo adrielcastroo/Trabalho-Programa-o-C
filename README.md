@@ -29,7 +29,7 @@ Clique nos links abaixo para navegar diretamente até o código-fonte comentado 
 ### Módulo 4: Estruturas de Decisão
 
 * [**Questão 09 - Número Positivo ou Negativo**](Questao%2009%20-%20Numero%20Positivo%20ou%20Negativo/questao_09.c)**:** Bloco condicional encadeado (`if-else if`) para classificar um número como positivo, negativo ou nulo.
-* [**Questão 10 - Par ou Ímpar**](Questao%2010%20-%20Par%20ou%20Impar/questao_10.c)**:** Análise de resto de divisão inteira por meio do operador módulo (`%`) para determinação de paridade numérica.
+* [**Questão 10 - Par ou Ímpar**](Questao%2010%20-%20Par%20ou%20impar/questao_10.c)**:** Análise de resto de divisão inteira por meio do operador módulo (`%`) para determinação de paridade numérica.
 * [**Questão 11 - Média do Aluno**](Questao%2011%20-%20Media%20do%20Aluno/questao_11.c)**:** Sistema de verificação acadêmica com múltiplos desvios condicionais avaliando status entre aprovado, recuperação ou reprovado.
 * [**Questão 12 - Calculadora Simples com Switch**](Questao%2012%20-%20Calculadora%20Simples%20com%20Switch/questao_12.c)**:** Implementação de menu seletor de operações matemáticas utilizando a estrutura de controle de fluxo `switch-case`.
 
